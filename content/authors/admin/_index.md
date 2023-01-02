@@ -2,7 +2,7 @@
 title: Tobias Blanke
 role: Professor of Artificial Intelligence and Humanities
 avatar_filename: avatar.jpg
-bio: My research interests include ...
+bio: ""
 interests:
   - Artificial Intelligence
   - Digital Humanities
