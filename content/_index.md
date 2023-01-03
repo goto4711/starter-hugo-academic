@@ -79,7 +79,7 @@ sections:
     - company: DARIAH
       company_logo: org-x
       company_url: "https://www.dariah.eu/"
-      date_end: "2016-31-12"
+      date_end: "2016-12-31"
       date_start: "2012-11-01"
       description: I was a founding director of DARIAH, an infrastructure to advance Digital Humanities in Europe.
       location: Europe
