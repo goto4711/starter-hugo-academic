@@ -64,7 +64,7 @@ sections:
       company_logo: org-gc
       company_url: "https://www.uva.nl/"
       date_end: ""
-      date_start: "2019"
+      date_start: "2019-09-01"
       description: A special university-wide research appointment to advance AI in the humanities.
       location: Netherlands
       title: University Professor in Artificial Intelligence and Humanities
@@ -72,15 +72,15 @@ sections:
       company_logo: org-x
       company_url: "https://www.kcl.ac.uk/"
       date_end: ""
-      date_start: "2007"
+      date_start: "2007-09-01"
       description: I have helped shape the Department of Digital Humanities where I was Head of Department from 2016-19.
       location: United Kingdom
       title: Professor of Social and Cultural Informatics
     - company: DARIAH
       company_logo: org-x
       company_url: "https://www.dariah.eu/"
-      date_end: "2016"
-      date_start: "2012"
+      date_end: "2016-31-12"
+      date_start: "2012-11-01"
       description: I was a founding director of DARIAH, an infrastructure to advance Digital Humanities in Europe.
       location: Europe
       title: Director
