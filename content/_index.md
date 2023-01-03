@@ -28,12 +28,12 @@ sections:
 #          description: 10%
 #          icon: camera-retro
 #          icon_pack: fas
-#  - block: experience
-#    content:
-#      title: Experience
+  - block: experience
+    content:
+      title: Experience
 #      # Date format for experience
 #      #   Refer to https://wowchemy.com/docs/customization/#date-format
-#      date_format: Jan 2006
+      date_format: Jan 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
