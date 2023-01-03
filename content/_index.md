@@ -163,16 +163,16 @@ sections:
   design:
     columns: "2"
     view: citation
-- block: collection
-  content:
-    filters:
-      folders:
-      - event
-    title: Recent & Upcoming Talks
-  design:
-    columns: "2"
-    view: compact
-  id: talks
+#- block: collection
+#  content:
+#    filters:
+#      folders:
+#      - event
+#    title: Recent & Upcoming Talks
+#  design:
+#    columns: "2"
+#    view: compact
+#  id: talks
 #- block: collection
 #  content:
 #    count: 5
@@ -218,34 +218,33 @@ sections:
       street: 450 Serra Mall
     appointment_url: https://calendly.com
     autolink: true
-    contact_links:
-    - icon: twitter
-      icon_pack: fab
-      link: https://twitter.com/Twitter
-      name: DM Me
-    - icon: skype
-      icon_pack: fab
-      link: skype:echo123?call
-      name: Skype Me
-    - icon: video
-      icon_pack: fas
-      link: https://zoom.com
-      name: Zoom Me
-    directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-    email: test@example.org
+#    contact_links:
+#    - icon: twitter
+#      icon_pack: fab
+#      link: https://twitter.com/Twitter
+#      name: DM Me
+#    - icon: skype
+#      icon_pack: fab
+#      link: skype:echo123?call
+#      name: Skype Me
+#    - icon: video
+#      icon_pack: fas
+#      link: https://zoom.com
+#      name: Zoom Me
+    directions: Enter BG1 and take the stairs to Office 2.11 on Floor 2
+    email: t.blanke@uva.nl
     form:
       formspree:
         id: null
       netlify:
-        captcha: false
+        captcha: true
       provider: netlify
     office_hours:
-    - Monday 10:00 to 13:00
-    - Wednesday 09:00 to 10:00
-    phone: 888 888 88 88
-    subtitle: null
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis
-      ut magna et, vehicula efficitur enim.
+    - After appointment
+#    - Wednesday 09:00 to 10:00
+#    phone: 888 888 88 88
+#    subtitle: null
+    text: 
     title: Contact
   design:
     columns: "2"
