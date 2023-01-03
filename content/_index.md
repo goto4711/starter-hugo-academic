@@ -60,28 +60,31 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - company: GenCoin
+    - company: University of Amsterdam
       company_logo: org-gc
-      company_url: ""
+      company_url: "https://www.uva.nl/"
       date_end: ""
-      date_start: "2021-01-01"
-      description: |2-
-          Responsibilities include:
-
-          * Analysing
-          * Modelling
-          * Deploying
-      location: California
-      title: CEO
-    - company: University X
+      date_start: "2019"
+      description: A special university-wide research appointment to advance AI in the humanities.
+      location: Netherlands
+      title: University Professor in Artificial Intelligence and Humanities
+    - company: King's College London
       company_logo: org-x
-      company_url: ""
-      date_end: "2020-12-31"
-      date_start: "2016-01-01"
-      description: Taught electronic engineering and researched semiconductor physics.
-      location: California
-      title: Professor of Semiconductor Physics
-    title: Experience
+      company_url: "https://www.kcl.ac.uk/"
+      date_end: ""
+      date_start: "2007"
+      description: I have helped shape the Department of Digital Humanities where I was Head of Department from 2016-19.
+      location: United Kingdom
+      title: Professor of Social and Cultural Informatics
+    - company: DARIAH
+      company_logo: org-x
+      company_url: "https://www.dariah.eu/"
+      date_end: "2016"
+      date_start: "2012"
+      description: I was a founding director of DARIAH, an infrastructure to advance Digital Humanities in Europe.
+      location: Europe
+      title: Director
+    title: Relevant Academic Appointments
   design:
     columns: "2"
 #- block: accomplishments
