@@ -195,11 +195,6 @@ sections:
 #    columns: "2"
 #    view: compact
 #  id: posts
-- block: tag_cloud
-  content:
-    title: Popular Topics
-  design:
-    columns: "2"
 - block: markdown
   content:
     subtitle: ""
@@ -207,16 +202,21 @@ sections:
     title: Gallery
   design:
     columns: "1"
+- block: tag_cloud
+  content:
+    title: Popular Topics
+  design:
+    columns: "2"
 - block: contact
   content:
     address:
-      city: Stanford
-      country: United States
-      country_code: US
-      postcode: "94305"
-      region: CA
-      street: 450 Serra Mall
-    appointment_url: https://calendly.com
+      city: Amsterdam
+      country: Netherlands
+#      country_code: US
+      postcode: "1012 XT"
+#      region: CA
+      street: Turfdraagsterpad 9 
+#    appointment_url: https://calendly.com
     autolink: true
 #    contact_links:
 #    - icon: twitter
@@ -240,7 +240,7 @@ sections:
         captcha: true
       provider: netlify
     office_hours:
-    - After appointment
+    - By appointment
 #    - Wednesday 09:00 to 10:00
 #    phone: 888 888 88 88
 #    subtitle: null
