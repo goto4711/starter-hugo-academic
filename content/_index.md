@@ -157,13 +157,6 @@ sections:
     flip_alt_rows: false
     view: showcase
   id: projects
-- block: markdown
-  content:
-    subtitle: ""
-    text: '{{< gallery album="demo" >}}'
-    title: Gallery
-  design:
-    columns: "1"
 - block: collection
   content:
     filters:
@@ -204,6 +197,13 @@ sections:
     title: Popular Topics
   design:
     columns: "2"
+- block: markdown
+  content:
+    subtitle: ""
+    text: '{{< gallery album="demo" >}}'
+    title: Gallery
+  design:
+    columns: "1"
 - block: contact
   content:
     address:
