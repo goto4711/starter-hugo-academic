@@ -7,6 +7,6 @@ external_link: https://ehri-project.eu/
 image:
   filename: ehri-image2.jpeg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 The European Holocaust Research Infrastructure has been going strong since 2009. We are now in the third phase and there is still much more to do.
