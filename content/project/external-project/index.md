@@ -12,4 +12,4 @@ image:
   focal_point: TOP
   filename: https://www.ai4media.eu/wp-content/themes/ai4media/assets/img/logo.svg
 ---
-AI4Media is a European centre of excellence in AI research. We work with artificial intelligence researchers across Europe focussing on the social impact of AI.
+AI4Media is a European centre of excellence in AI research. We work with artificial intelligence researchers across Europe focussing on the social impact of AI in media. We also develop specialised education for humanities and social science researchers through the  [International AI Doctoral Academy](https://www.i-aida.org/).
