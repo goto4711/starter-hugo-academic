@@ -61,7 +61,7 @@ sections:
     date_format: Jan 2006
     items:
     - company: University of Amsterdam
-      company_logo: org-gc
+      company_logo: org-uva
       company_url: "https://www.uva.nl/"
       date_end: ""
       date_start: "2019-09-01"
@@ -69,7 +69,7 @@ sections:
       location: Netherlands
       title: University Professor in Artificial Intelligence and Humanities
     - company: King's College London
-      company_logo: org-x
+      company_logo: org-kcl
       company_url: "https://www.kcl.ac.uk/"
       date_end: ""
       date_start: "2007-09-01"
@@ -77,7 +77,7 @@ sections:
       location: United Kingdom
       title: Professor of Social and Cultural Informatics
     - company: DARIAH
-      company_logo: org-x
+      company_logo: org-dariah
       company_url: "https://www.dariah.eu/"
       date_end: "2016-12-31"
       date_start: "2012-11-01"
@@ -124,15 +124,15 @@ sections:
     buttons:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+#    - name: Deep Learning
+#      tag: Deep Learning
     - name: Other
       tag: Demo
     default_button_index: 0
     filters:
       folders:
       - project
-    title: Projects
+    title: Selected Projects
   design:
     columns: "1"
     flip_alt_rows: false
@@ -202,11 +202,11 @@ sections:
     title: Gallery
   design:
     columns: "1"
-- block: tag_cloud
-  content:
-    title: Popular Topics
-  design:
-    columns: "2"
+#- block: tag_cloud
+#  content:
+#    title: Popular Topics
+#  design:
+#    columns: "2"
 - block: contact
   content:
     address:
