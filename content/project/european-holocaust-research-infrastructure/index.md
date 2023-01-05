@@ -2,7 +2,7 @@
 title: European Holocaust Research Infrastructure
 date: 2023-01-05T14:17:55.825Z
 draft: false
-featured: true
+featured: false
 external_link: https://ehri-project.eu/
 image:
   filename: ehri-image2.jpeg
