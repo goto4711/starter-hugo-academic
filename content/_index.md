@@ -73,7 +73,7 @@ sections:
       company_url: "https://www.kcl.ac.uk/"
       date_end: ""
       date_start: "2007-09-01"
-      description: I have helped shape the Department of Digital Humanities where I was Head of Department from 2016-19.
+      description: Various academic appointment in the Department of Digital Humanities. From 2018 Professor and Head of Department from 2016-19. 
       location: United Kingdom
       title: Professor of Social and Cultural Informatics
     - company: DARIAH
