@@ -5,7 +5,7 @@ draft: false
 featured: true
 external_link: https://ehri-project.eu/
 image:
-  filename: ehri-image.jpg
+  filename: ehri-image2.jpeg
   focal_point: Smart
   preview_only: false
 ---
