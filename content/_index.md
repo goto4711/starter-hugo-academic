@@ -77,7 +77,7 @@ sections:
       location: United Kingdom
       title: Professor of Social and Cultural Informatics
     - company: DARIAH
-      company_logo: org-x
+      company_logo: org-dariah
       company_url: "https://www.dariah.eu/"
       date_end: "2016-12-31"
       date_start: "2012-11-01"
