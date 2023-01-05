@@ -1,14 +1,15 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: AI4Media
+date: 2016-04-27T00:00:00Z
+summary: AI4Media `external_link `is a European centre of excellence in AI
+  research. We work with artificial intelligence researchers across Europe
+  focussing on the social impact of AI.
 tags:
   - Demo
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: https://example.org
-
+external_link: https://www.ai4media.eu/
 image:
-  caption: Photo by Toa Heftiba on Unsplash
-  focal_point: Smart
+  caption: ""
+  focal_point: TOP
+  filename: https://www.ai4media.eu/wp-content/themes/ai4media/assets/img/logo.svg
 ---
+AI4Media is a European centre of excellence in AI research. We work with artificial intelligence researchers across Europe focussing on the social impact of AI.
