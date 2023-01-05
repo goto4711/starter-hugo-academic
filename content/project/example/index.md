@@ -8,7 +8,7 @@ summary: >-
 
   Our Data Ourselves from 2015-18 was the first project to look at mobile datafications.
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 external_link: ""
 url_slides: ""
 title: Our Data Ourselves
@@ -18,7 +18,7 @@ links:
 image:
   caption: ""
   focal_point: Top
-  filename: https://www.kcl.ac.uk/newimages/ah/digital-humanities/our-data-ourselves-cropped-329x246.png
+  filename: odo.png
 url_code: ""
 ---
 Over the years we had a number of projects, helping citizens make sense of the datafication processes they are exposed to.
