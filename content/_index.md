@@ -233,12 +233,12 @@ sections:
 #      name: Zoom Me
     directions: Enter BG1 and take the stairs to Office 2.11 on Floor 2
     email: t.blanke@uva.nl
-    form:
-      formspree:
-        id: null
-      netlify:
-        captcha: true
-      provider: netlify
+#    form:
+#      formspree:
+#        id: null
+#      netlify:
+#        captcha: true
+#      provider: netlify
     office_hours:
     - By appointment
 #    - Wednesday 09:00 to 10:00
