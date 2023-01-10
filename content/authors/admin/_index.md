@@ -25,9 +25,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/tobias-blanke-a159106/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+#  - icon: cv
+#    icon_pack: ai
+#    link: uploads/resume.pdf
 organizations:
   - name: University of Amsterdam
     url: https://www.uva.nl/
