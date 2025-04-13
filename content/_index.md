@@ -37,7 +37,7 @@ sections:
 #      text_color_light: true
 - block: about.avatar
   content:
-    text: null
+    text: null 
     username: admin
   id: about
 #- block: features
