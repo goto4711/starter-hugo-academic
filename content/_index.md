@@ -67,7 +67,7 @@ sections:
       date_start: "2019-09-01"
       description: A special appointment to advance AI in the humanities.
       location: Netherlands
-      title: University Professor in Artificial Intelligence and Humanities
+      title: Professor in Artificial Intelligence and Humanities
     - company: King's College London
       company_logo: org-kcl
       company_url: "https://www.kcl.ac.uk/"
