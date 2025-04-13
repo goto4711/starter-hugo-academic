@@ -10,10 +10,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/tobias_blanke
-    label: Follow me on Twitter
+ # - icon: twitter
+ #   icon_pack: fab
+ #   link: https://twitter.com/tobias_blanke
+ #   label: Follow me on Twitter
     display:
       header: true
  # - icon: graduation-cap
@@ -41,5 +41,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Tobias Blanke is University Professor of Artificial Intelligence and Humanities at the University of Amsterdam and the Institute for Logic, Language, and Computation. He is also affiliated with King’s College London as Professor of Social and Cultural Informatics. His academic background is in computer science and political philosophy. Blanke’s principal research interests lie in artificial intelligence and big data devices for research, particularly in the human sciences. He has also published extensively on ethical questions of Artificial Intelligence such as predictive policing and algorithmic otherings, as well as critical digital practices, and the critique of digital platforms. 
+Tobias Blanke is  Professor of Artificial Intelligence and Humanities at the University of Amsterdam and the Institute for Logic, Language, and Computation. He is also affiliated with King’s College London as Visiting Professor of Social and Cultural Informatics. His academic background is in computer science and political philosophy. Blanke’s principal research interests lie in artificial intelligence and big data devices for research, particularly in the human sciences. He has also published extensively on ethical questions of Artificial Intelligence such as predictive policing and algorithmic otherings, as well as critical digital practices, and the critique of digital platforms. 
 {style="text-align: justify;"}

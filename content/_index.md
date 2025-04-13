@@ -65,7 +65,7 @@ sections:
       company_url: "https://www.uva.nl/"
       date_end: ""
       date_start: "2019-09-01"
-      description: A special university-wide research appointment to advance AI in the humanities.
+      description: A special appointment to advance AI in the humanities.
       location: Netherlands
       title: University Professor in Artificial Intelligence and Humanities
     - company: King's College London
@@ -231,7 +231,7 @@ sections:
 #      icon_pack: fas
 #      link: https://zoom.com
 #      name: Zoom Me
-    directions: Enter BG1 and take the stairs to Office 2.11 on Floor 2
+    directions: Enter Science Park 107 and find the office F2.06 on Floor 2. 
     email: t.blanke@uva.nl
 #    form:
 #      formspree:
