@@ -213,9 +213,9 @@ sections:
       city: Amsterdam
       country: Netherlands
 #      country_code: US
-      postcode: "1012 XT"
+      postcode: "1098 XG"
 #      region: CA
-      street: Turfdraagsterpad 9 
+      street: Science Park 107
 #    appointment_url: https://calendly.com
     autolink: true
 #    contact_links:
